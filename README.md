@@ -75,6 +75,3 @@ python watch.py
 
 The agent progressively improves its score through training, learning to navigate through pipes more effectively as episodes increase.
 
-## License
-
-MIT License
